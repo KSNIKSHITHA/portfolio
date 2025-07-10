@@ -4,7 +4,7 @@ This is my personal portfolio website built using *HTML, **CSS, and **JavaScript
 
 ## 🌐 Live Demo
 
-[🔗 View Website](https://KSNIKSHITHA.github.io/portfolio/)  
+[🔗 View Website] https://ksnikshitha.github.io/portfolio/
 
 ## 🧰 Tech Stack
 
