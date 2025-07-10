@@ -5,9 +5,6 @@ This is my personal portfolio website built using *HTML, **CSS, and **JavaScript
 ## 🌐 Live Demo
 
 [🔗 View Website](https://KSNIKSHITHA.github.io/portfolio/)  
-(Replace the link with your actual GitHub Pages URL)
-
----
 
 ## 🧰 Tech Stack
 
